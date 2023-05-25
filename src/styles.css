@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.btn {
+  cursor: pointer;
+}
+ul {
+  margin: 10px 0;
+  padding: 0;
+}
+
+li {
+  padding: 3px;
+  list-style: none;
+}
